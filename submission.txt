@@ -1,0 +1,75 @@
+Project #8 - Submission form
+
+Please fill in this form and submit it with your project #8.
+
+Enter no more than 5 user stories that you did for the assignment that you would like to be
+graded on. For each story include the following information:
+
+Story number and name:
+Story points:
+Brief description to see the story in action:
+
+Total Story Points:
+
+Marketing Video URL (ensure permissions are set to public viewing):
+
+Is it OK with you if we post your Marketing Video URL on the class discussion forum?
+
+Any special instructions for Grading (should be easy to run app from new machine):
+
+
+************************************ Story 1 *******************
+*
+* Story number and name:  1 - Extend User Profile Detail with Usage
+* Story points:  3
+* Brief description to see the story in action:
+* Select any user detail page from the side bar and see their most recent photo and most commented
+* photo pop up. Click either photo to go to the photo detail page
+*
+* Total Story Points: 3
+*
+* Marketing Video URL (ensure permissions are set to public viewing): (In Folder)
+*
+* Is it OK with you if we post your Marketing Video URL on the class discussion forum? Yes
+*
+* Instructions for Grading (should be easy to run app from new machine): None
+
+
+
+************************************ Story 2 *******************
+*
+* Story number and name:  3 - Visibility Control of Photos
+* Story points:  4
+* Brief description to see the story in action:
+* Upload any photo from the top, choose your desired user permissions.
+* 1) View the photo from the account you just uploaded
+* 2) Log into a user who is not on the permissions list and see that the photo is not there;
+* 3) Log into a user who is on the permissions list and see the photo there
+* 4) Additionally, upload a photo with permissions (empty list) and no permissions to test desired behavior
+*
+* Total Story Points: 7
+*
+* Marketing Video URL (ensure permissions are set to public viewing): (In MAIN FOLDER)) ---
+*
+* Is it OK with you if we post your Marketing Video URL on the class discussion forum? Yes
+*
+* Instructions for Grading (should be easy to run app from new machine): (See above)
+
+
+
+************************************ Story 3 *******************
+*
+* Story number and name:  6 -- Photo "like" votes
+* Story points:  4
+* Brief description to see the story in action:
+* Navigate to the photo detail page. Like a photo and see the like-ticker increase and the "like"
+* button change to "unlike". Additionally observe the photo resort based on this new like count and
+* observe that the photos are organized by date to begin with.
+*
+* Total Story Points: 11
+*
+* Marketing Video URL (ensure permissions are set to public viewing): In FOLDER ----
+*
+* Is it OK with you if we post your Marketing Video URL on the class discussion forum? Yes
+*
+* Instructions for Grading (should be easy to run app from new machine): (See above)

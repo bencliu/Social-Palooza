@@ -1,0 +1,41 @@
+/* Styling sheet for photo app top bar */
+
+.cs142-topbar-appBar .topBar-box {
+  height: 60;
+  width: 100%;
+}
+
+root {
+  flex-grow: 1;
+  justify-content: space-between;
+}
+
+.self-display {
+  padding-left: 60px;
+}
+
+.button-box {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-left: 20px;
+}
+
+.user-display {
+  flex-grow: 1;
+  padding-left: 15px;
+}
+
+.photo-upload-display {
+  flex-grow: 1;
+  padding-left: 200px;
+}
+
+.upload-button {
+  padding-left: 10px;
+}
+
+.dialog-display {
+  height: 400px;
+  width: 500px;
+}

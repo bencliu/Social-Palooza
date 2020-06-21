@@ -1,0 +1,24 @@
+
+/* Container block */
+.outer-container {
+  height: 50%;
+  width: 100%;
+}
+
+/* Div around register/login subcntainter */
+.rl-container {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: column;
+  padding: 10px;
+}
+
+/* Div around reg/log elements */
+.rl-elem {
+  display: block;
+  margin-top: 5px;
+  text-align: center;
+  padding: 10px;
+}
